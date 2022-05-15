@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on various data science projects focused on NLP!
+- 🌱 I’m currently learning about becoming a solutions architect.
+- 📫 How to reach me: divyarustagi@live.in
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I studied leadership by herding sheeps in Israel.
+
 <!--
 **DivyaRustagi10/DivyaRustagi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
