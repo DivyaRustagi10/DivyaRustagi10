@@ -20,7 +20,7 @@
 </h1>
 
 - 😄 Pronouns: She/Her
-- 🌱 I’m currently learning the art of sales engineering.
+- 🌱 I’m currently learning the art of solutions engineering.
 - 🔭 I’m also working on passion projects focused on NLP.
 - ⚡ Fun fact: I love cats!
 
